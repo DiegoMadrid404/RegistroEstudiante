@@ -1,6 +1,5 @@
 # RegistroEstudiante
-# Gestión De Notas
- Api .Net 6.0  
+  Api .Net 6.0  
 Arquitectura hexagonal
 
  CRUD de estudiante:
